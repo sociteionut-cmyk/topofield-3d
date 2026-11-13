@@ -1,0 +1,11 @@
+node_modules
+dist
+*.tsbuildinfo
+*.log
+*.jpg
+*.jpeg
+*.heic
+*.csv
+*.json.bak
+TopoField_backup_*
+eng.traineddata
